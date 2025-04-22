@@ -14,7 +14,7 @@
 
 - **Бэкенд**: Spring Boot, Spring WebSocket, Spring Security, Spring Data JPA, Lombok, Maven.
 - **Фронтенд**: HTML, CSS, JavaScript, SockJS, STOMP.js, Thymeleaf.
-- **База данных**: H2 (с возможностью замены на MySQL).
+- **База данных**: MySQL.
 
 ## Использование
 
